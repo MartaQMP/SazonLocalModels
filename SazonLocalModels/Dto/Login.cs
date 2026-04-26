@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SazonLocalModels.Models
+namespace SazonLocalModels.Dto
 {
     public class Login
     {
