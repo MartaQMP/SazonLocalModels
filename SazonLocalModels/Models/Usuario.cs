@@ -19,9 +19,6 @@ namespace SazonLocalModels.Models
         [Column("EMAIL")]
         public string Email { get; set; }
 
-        [Column("CONTRASENA")]
-        public string? Contrasena { get; set; }
-
         [Column("IMAGEN")]
         public string? Imagen { get; set; }
         
