@@ -2,7 +2,6 @@ namespace SazonLocalModels.Dto
 {
     public class DireccionDto
     {
-        public int IdUsuario { get; set; }
         public string? NombreEtiqueta { get; set; }
         public string CalleNumero { get; set; }
         public string? Piso { get; set; }

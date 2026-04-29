@@ -8,6 +8,5 @@ namespace SazonLocalModels.Dto
         public string Provincia { get; set; }
         public decimal Latitud { get; set; }
         public decimal Longitud { get; set; }
-        public int IdUsuario { get; set; }
     }
 }
