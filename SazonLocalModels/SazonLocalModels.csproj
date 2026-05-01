@@ -10,7 +10,7 @@
     <Authors>Marta</Authors>
     <PackageIcon>Logo_Sazon_Local.png</PackageIcon>
     <PackageTags>sazonlocal;sazon;local;model;models</PackageTags>
-    <Version>1.5.0</Version>
+    <Version>1.5.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
